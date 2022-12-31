@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\ProblemsOnBit\ProblemsOnBit\bin\Debug\net6.0\ProblemsOnBit.exe
+C:\Users\Administrator\source\repos\ProblemsOnBit\ProblemsOnBit\bin\Debug\net6.0\ProblemsOnBit.deps.json
+C:\Users\Administrator\source\repos\ProblemsOnBit\ProblemsOnBit\bin\Debug\net6.0\ProblemsOnBit.runtimeconfig.json
+C:\Users\Administrator\source\repos\ProblemsOnBit\ProblemsOnBit\bin\Debug\net6.0\ProblemsOnBit.dll
+C:\Users\Administrator\source\repos\ProblemsOnBit\ProblemsOnBit\bin\Debug\net6.0\ProblemsOnBit.pdb
+C:\Users\Administrator\source\repos\ProblemsOnBit\ProblemsOnBit\obj\Debug\net6.0\ProblemsOnBit.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ProblemsOnBit\ProblemsOnBit\obj\Debug\net6.0\ProblemsOnBit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ProblemsOnBit\ProblemsOnBit\obj\Debug\net6.0\ProblemsOnBit.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ProblemsOnBit\ProblemsOnBit\obj\Debug\net6.0\ProblemsOnBit.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ProblemsOnBit\ProblemsOnBit\obj\Debug\net6.0\ProblemsOnBit.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ProblemsOnBit\ProblemsOnBit\obj\Debug\net6.0\ProblemsOnBit.dll
+C:\Users\Administrator\source\repos\ProblemsOnBit\ProblemsOnBit\obj\Debug\net6.0\refint\ProblemsOnBit.dll
+C:\Users\Administrator\source\repos\ProblemsOnBit\ProblemsOnBit\obj\Debug\net6.0\ProblemsOnBit.pdb
+C:\Users\Administrator\source\repos\ProblemsOnBit\ProblemsOnBit\obj\Debug\net6.0\ProblemsOnBit.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ProblemsOnBit\ProblemsOnBit\obj\Debug\net6.0\ref\ProblemsOnBit.dll
