@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\ProblemsOnBit\Programmer_Calculator\bin\Debug\net6.0-windows\Programmer_Calculator.exe
+C:\Users\Administrator\source\repos\ProblemsOnBit\Programmer_Calculator\bin\Debug\net6.0-windows\Programmer_Calculator.deps.json
+C:\Users\Administrator\source\repos\ProblemsOnBit\Programmer_Calculator\bin\Debug\net6.0-windows\Programmer_Calculator.runtimeconfig.json
+C:\Users\Administrator\source\repos\ProblemsOnBit\Programmer_Calculator\bin\Debug\net6.0-windows\Programmer_Calculator.dll
+C:\Users\Administrator\source\repos\ProblemsOnBit\Programmer_Calculator\bin\Debug\net6.0-windows\Programmer_Calculator.pdb
+C:\Users\Administrator\source\repos\ProblemsOnBit\Programmer_Calculator\obj\Debug\net6.0-windows\Programmer_Calculator.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ProblemsOnBit\Programmer_Calculator\obj\Debug\net6.0-windows\Programmer_Calculator.Form1.resources
+C:\Users\Administrator\source\repos\ProblemsOnBit\Programmer_Calculator\obj\Debug\net6.0-windows\Programmer_Calculator.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ProblemsOnBit\Programmer_Calculator\obj\Debug\net6.0-windows\Programmer_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ProblemsOnBit\Programmer_Calculator\obj\Debug\net6.0-windows\Programmer_Calculator.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ProblemsOnBit\Programmer_Calculator\obj\Debug\net6.0-windows\Programmer_Calculator.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ProblemsOnBit\Programmer_Calculator\obj\Debug\net6.0-windows\Programmer_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ProblemsOnBit\Programmer_Calculator\obj\Debug\net6.0-windows\Programmer_Calculator.dll
+C:\Users\Administrator\source\repos\ProblemsOnBit\Programmer_Calculator\obj\Debug\net6.0-windows\refint\Programmer_Calculator.dll
+C:\Users\Administrator\source\repos\ProblemsOnBit\Programmer_Calculator\obj\Debug\net6.0-windows\Programmer_Calculator.pdb
+C:\Users\Administrator\source\repos\ProblemsOnBit\Programmer_Calculator\obj\Debug\net6.0-windows\Programmer_Calculator.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ProblemsOnBit\Programmer_Calculator\obj\Debug\net6.0-windows\ref\Programmer_Calculator.dll

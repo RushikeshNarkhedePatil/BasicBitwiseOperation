@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -30,11 +31,19 @@ namespace ProblemsOnBit
 
             // Right shift Example.
             Console.WriteLine(val<<3);              // 80
-            //Explain Right Shift Operation.
-            // 0000 0000 0000 0000 0000 0000 0000 1010      // val Binary Representation
-            // after Right shift by 3.
-            // 0000 0000 0000 0000 0000 0000 0101 0000      // every digit shipt by 3 and left hand side 3 digit will be dropt and
-                                                            // Added last of Right hand side. LSB
+                                                    //Explain Right Shift Operation.
+                                                    // 0000 0000 0000 0000 0000 0000 0000 1010      // val Binary Representation
+                                                    // after Right shift by 3.
+                                                    // 0000 0000 0000 0000 0000 0000 0101 0000      // every digit shipt by 3 and left hand side 3 digit will be dropt and
+                                                    // Added last of Right hand side. LSB
+            byte no=5;
+            Byte val1 = (Byte)(~no);
+            Console.WriteLine(no);
+            UInt32 num = 4294967295;     // Max number will be store in usigned variable   
+            int num1 = 2147483647;      // Max number /2 number will store in signed variable
+            Console.WriteLine(num);
+            Console.WriteLine(num1);
+            Console.WriteLine(10>>3);
         }
     }
 }

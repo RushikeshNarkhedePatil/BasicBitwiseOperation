@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemsOnBit", "ProblemsOnBit\ProblemsOnBit.csproj", "{AB8F4AAF-6504-4CCC-AED9-5768CA6CBCD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemsOnBit", "ProblemsOnBit\ProblemsOnBit.csproj", "{AB8F4AAF-6504-4CCC-AED9-5768CA6CBCD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programmer_Calculator", "Programmer_Calculator\Programmer_Calculator.csproj", "{7F880832-6FE6-4F68-8624-260928AED162}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{AB8F4AAF-6504-4CCC-AED9-5768CA6CBCD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB8F4AAF-6504-4CCC-AED9-5768CA6CBCD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB8F4AAF-6504-4CCC-AED9-5768CA6CBCD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F880832-6FE6-4F68-8624-260928AED162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F880832-6FE6-4F68-8624-260928AED162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F880832-6FE6-4F68-8624-260928AED162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F880832-6FE6-4F68-8624-260928AED162}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
