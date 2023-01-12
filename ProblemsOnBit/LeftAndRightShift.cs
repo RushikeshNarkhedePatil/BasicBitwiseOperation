@@ -15,6 +15,7 @@ namespace ProblemsOnBit
             int No1 = 5;
             int No2=6;
             int val=10;
+            int value = 15;
 
             Console.WriteLine(No << 1);           // 0010   -->   0100   = 4      // Left Shift by 1
             Console.WriteLine(No >> 1);           // 0010   -->   0001   = 1      // Right Shift by 1
@@ -44,6 +45,7 @@ namespace ProblemsOnBit
             Console.WriteLine(num);
             Console.WriteLine(num1);
             Console.WriteLine(10>>3);
+            string binaryValue = Convert.ToString(value, 2).PadLeft(32, '0');    //conversion of int32 value to 32bit binary
         }
     }
 }
